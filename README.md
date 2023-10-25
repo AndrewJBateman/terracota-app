@@ -3,10 +3,10 @@
 * Single page optimised HTML-CSS-JS website to market a holiday home and aim for perfect SEO
 * **Note:** to open web links in a new window use: _ctrl+click on link_
 
-![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/app-terracota?style=plastic)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/AndrewJBateman/app-terracota?style=plastic)
-![GitHub Repo stars](https://img.shields.io/github/stars/AndrewJBateman/app-terracota?style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/AndrewJBateman/app-terracota?style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/terracota-app?style=plastic)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/AndrewJBateman/terracota-app?style=plastic)
+![GitHub Repo stars](https://img.shields.io/github/stars/AndrewJBateman/terracota-app?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/AndrewJBateman/terracota-app?style=plastic)
 
 ## :page_facing_up: Table of contents
 
@@ -100,4 +100,3 @@
 ## :envelope: Contact
 
 * Repo created by [ABateman](https://github.com/AndrewJBateman), email: `gomezbateman@yahoo.com`
-
